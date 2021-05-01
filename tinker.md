@@ -39,6 +39,8 @@ Weapon:
 
 - Stoner-Ares M202 (Medium Machine Gun)
   - 10P AP -3 Accu 5 Ammo 50c
+    - ExEx; 12 -4
+      RC: 6 long burst + 6
 
 ### Ares Matilda
 
@@ -63,3 +65,27 @@ Weapon:
 ### Control Rig
 
     Rating 2
+
+Manual Control - physical/AR (but not control device):
+Attribute + Skill
+Physical initiative
+
+Remote Control - AR/VR, using Control Device matrix action:
+Attribute + Skill  
+ \*Gunnery tests on vehicle mounted weapons particularly use Logic + Gunnery
+Initiative dependent on interface mode (AR, cold-sim VR, or Hot-sim VR)
+Hot-sim VR gets bonus +2
+Optional: Use Logic/Intuition as base attribute for tests that usually would use Agility/Reaction when in VR.
+
+Jumped-in - VR, using Control Rig.  
+ Attribute + Skill
+Initiative dependent on interface mode
+Hot-Sim VR gets bonus + 2
+Additional bonus dice based on control rig rating
+Additional bonus limits per control rig rating
+Reduction in thresholds per control rig rating.
+
+## Fight Jumped in:
+
+LOG + Gunnery + 2 (Hot Sim) + 2 (rig)
+5+5+2+2
